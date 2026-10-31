@@ -39,7 +39,7 @@ This project simulates a simple industrial bottle inspection system. It checks s
 4. Run the following command:
 
 ```bash
-python main.py
+python bottleguard.py
 ```
 
 ## Project Status
